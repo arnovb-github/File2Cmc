@@ -1,0 +1,12 @@
+frmMain = 155, 121, 826, 667, , 44, 44, 885, 682, C
+modMain = 110, 110, 805, 672, 
+clsProcesses = 22, 22, 768, 523, 
+modCmcAPI = 56, 82, 774, 644, 
+frmAbout = 66, 66, 816, 566, , 22, 22, 354, 557, C
+modLog = 88, 88, 949, 623, 
+modFileOperation = 66, 66, 851, 601, 
+modBrowseForFolder = 132, 132, 828, 632, 
+frmConflictingFile = 132, 133, 828, 632, C, 0, 0, 332, 535, C
+mShellLink = 0, 0, 696, 500, C
+cShellLink = -27, 77, 860, 760, 
+frmOptions = 18, 16, 787, 712, , 29, 38, 795, 727, C

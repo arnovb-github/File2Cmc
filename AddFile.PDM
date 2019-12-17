@@ -1,0 +1,114 @@
+[Root]
+Most Recent Package=File2Cmc
+
+
+[Package|File2Cmc|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\VB\Projecten\AddFileToCmc\Package (9)
+
+[Package|File2Cmc|Configure DAO ISAMs]
+Applicable=No
+
+[Package|File2Cmc|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|File2Cmc|Files Found]
+
+[Package|File2Cmc|Files Released]
+
+[Package|File2Cmc|Missing Dependency Information]
+E:\VB\Projecten\AddFileToCmc\SHELLLNK.TLB=
+C:\WINNT\system32\dbghelp.dll=
+C:\WINNT\system32\IMAGEHLP.DLL=
+
+[Package|File2Cmc|Out-of-Date Dependency Information]
+
+[Package|File2Cmc|Files Added]
+e:\vb\projecten\addfiletocmc\file2cmc.log=
+
+[Package|File2Cmc|Files Removed]
+d:\program files\commence workgroup 7.0\commence.exe=
+e:\vb\projecten\addfiletocmc\shelllnk.tlb=
+c:\winnt\system32\dbghelp.dll=
+c:\winnt\system32\psapi.dll=
+
+[Package|File2Cmc|Files In Project]
+E:\VB\Projecten\AddFileToCmc\file2cmc.exe=Yes
+C:\WINNT\system32\MSVBVM60.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\psapi.dll=No
+D:\Program Files\Commence Workgroup 7.0\commence.exe=No
+C:\WINNT\system32\Mscomctl.ocx=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\VB\Projecten\AddFileToCmc\SHELLLNK.TLB=No
+E:\VB\Projecten\AddFileToCmc\file2cmc.log=Yes
+C:\WINNT\system32\IMAGEHLP.DLL=Yes
+C:\WINNT\system32\RICHTX32.OCX=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+
+[Package|File2Cmc|Configure Registry Files]
+Applicable=No
+
+[Package|File2Cmc|Configure Remote Servers]
+Applicable=No
+
+[Package|File2Cmc|Install Locations]
+E:\VB\Projecten\AddFileToCmc\file2cmc.exe=$(AppPath)
+C:\WINNT\system32\MSVBVM60.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\psapi.dll=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\VB\Projecten\AddFileToCmc\SHELLLNK.TLB=$(AppPath)
+E:\VB\Projecten\AddFileToCmc\file2cmc.log=$(AppPath)
+C:\WINNT\system32\dbghelp.dll=$(WinSysPath)
+C:\WINNT\system32\IMAGEHLP.DLL=$(WinSysPath)
+C:\WINNT\system32\RICHTX32.OCX=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+
+[Package|File2Cmc|Configure Shared Files]
+Applicable=Yes
+E:\VB\Projecten\AddFileToCmc\file2cmc.exe=No
+E:\VB\Projecten\AddFileToCmc\SHELLLNK.TLB=No
+E:\VB\Projecten\AddFileToCmc\file2cmc.log=No
+
+[Package|File2Cmc|Distribution]
+Type=single
+Size=
+Title=File2Cmc
+
+[Package|File2Cmc|Package]
+PackageFolder=E:\VB\Projecten\AddFileToCmc\Package (9)
+ProjectFolder=E:\VB\Projecten\AddFileToCmc
+ServerSideCab=
+File1=E:\VB\Projecten\AddFileToCmc\Package (9)\setup.exe
+File2=E:\VB\Projecten\AddFileToCmc\Package (9)\Setup.Lst
+File3=E:\VB\Projecten\AddFileToCmc\Package (9)\file2cmc.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|File2Cmc|IconGroups]
+Group0=file2cmc
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|File2Cmc|file2cmc]
+Icon1=file2cmc.exe
+Title1=file2cmc
+StartIn1=$(AppPath)
+Key1=Icon1
